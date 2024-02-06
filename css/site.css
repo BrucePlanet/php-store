@@ -1,0 +1,23 @@
+.text-red {
+  --bs-text-opacity: 1;
+  color: red !important;
+}
+
+.text-green {
+  --bs-text-opacity: 1;
+  color: green !important;
+}
+
+.bg-orange {
+  background-color: #f36823;
+  --bs-btn-color: #fff;
+  --bs-btn-border-color: #f36823;
+  --bs-gradient: none;
+}
+
+.btn-orange {
+  background-color: #f36823;
+  --bs-btn-color: #fff;
+  --bs-btn-border-color: #f36823;
+  --bs-gradient: none;
+}
